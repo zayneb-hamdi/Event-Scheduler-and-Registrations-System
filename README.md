@@ -17,20 +17,15 @@ A full-stack Event Scheduling System built with React and Django REST Framework,
 
 ## ⚙️ Setup Instructions:
 ### Backend
-cd eventsystem/
-
-python manage.py makemigrations
-
-python manage.py migrate
-
-python manage.py runserver
+cd eventsystem  
+python manage.py makemigrations  
+python manage.py migrate  
+python manage.py runserver  
 
 ### frontend
-cd frontend
-
-npm install
-
-npm start
+cd frontend  
+npm install  
+npm start  
 
 ##Interface:
 ![image](https://github.com/user-attachments/assets/6688c6be-5d20-4233-a19e-9db4b9428aad)
