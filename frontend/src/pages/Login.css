@@ -1,0 +1,43 @@
+.logcontainer {
+    max-width: 1000px;
+    margin: 40px auto;
+    
+    background-color: white;
+
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    display: flex;
+
+  }
+  
+  .logcontainer img
+  {
+    width: 50%;
+    
+    
+    
+  }
+  .left
+  {
+    
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+    gap: 20px;
+   
+    
+  }
+  form input
+  {
+   width: 100%;
+  }
+ form
+ {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+ }
