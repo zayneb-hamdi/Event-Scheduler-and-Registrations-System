@@ -1,6 +1,10 @@
 # Event Scheduling System
 A full-stack Event Scheduling System built with React and Django REST Framework, enabling users to browse event categories, view details, register as attendees, and manage event participation efficiently.
-
+## Table of Contents:
+- [Features](#Features)
+- [Tech Stack](#Tech_Stack)
+- [Setup_Instructions](#Setup_Instructions)
+- [Interfaces](#Intrfaces)
 ## 🚀 Features:
 * Browse and filter events by category
 * View detailed information about each event
@@ -9,13 +13,13 @@ A full-stack Event Scheduling System built with React and Django REST Framework,
 * Responsive user interface built with React
 * Backend API powered by Django REST Framework
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech_Stack:
 * Frontend: React, Axios
 * Backend: Django, Django REST Framework
 * Database: SQLite 
 * API Communication: RESTful APIs
 
-## ⚙️ Setup Instructions:
+## ⚙️ Setup_Instructions:
 ### Backend
 cd eventsystem  
 python manage.py makemigrations  
