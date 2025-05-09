@@ -12,7 +12,7 @@ A full-stack Event Scheduling System built with React and Django REST Framework,
 ## 🛠️ Tech Stack:
 * Frontend: React, Axios
 * Backend: Django, Django REST Framework
-* Database: SQLite (or your choice)
+* Database: SQLite 
 * API Communication: RESTful APIs
 
 ## ⚙️ Setup Instructions:
