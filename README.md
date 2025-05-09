@@ -1,4 +1,4 @@
-#Event Scheduling System
+# Event Scheduling System
 A full-stack Event Scheduling System built with React and Django REST Framework, enabling users to browse event categories, view details, register as attendees, and manage event participation efficiently.
 
 ##🚀 Features:
